@@ -1,0 +1,5 @@
+/*
+	Main file orchestrates the startup of our application
+	Contains the code to connect all the ports and the adapters
+	We will write code to inject dependencies into the different layers
+*/
