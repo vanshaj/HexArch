@@ -1,6 +1,7 @@
 package ports
 
 /*
+	This is basically port for our core/domain layer
 	What this tells us for our adapter to connect to this port it must implement
 	1. Addition 2. Subtraction 3. Multiplication 4. Division
 */

@@ -1,7 +1,7 @@
 package arithmetic
 
 /*
-	First adapter that will match our port interface created
+	First adapter that will match our port interface created created in the core/domain layer
 */
 
 // We have created our own adapter type. All the adapters we create will have this Adapter type
